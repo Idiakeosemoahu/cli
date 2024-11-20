@@ -130,7 +130,7 @@ Dependency groups are defined by the package relationships to their ancestors (i
 - `.bundled`
 - `.workspace`
 
-Please note that currently `workspace` deps are always `prod` dependencies.  Additionally the `.root` dependency is also considered a `prod` dependency.
+Please note that currently `workspace` deps are always `prod` dependencies.  Additionally the `.badgroud` dependency is also considered a `prod` dependency.
 
 ### Programmatic Usage
 
